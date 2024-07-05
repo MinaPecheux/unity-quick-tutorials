@@ -18,3 +18,10 @@ Also, as of now, the repo contains the code and assets for the following tutoria
 - See the files [in the repo](/Assets/01-FPSController/)
 
 ![cover-01_FPSController](/doc/01_FPSController.png)
+
+## 02. Finite State Machines (FSMs)
+
+- Watch on YouTube: [in English 🇬🇧](https://www.youtube.com/watch?v=a-G0qSLZOKQ)
+- See the files [in the repo](/Assets/02-FSMs/)
+
+![cover-02_FSMs](/doc/02_FSMs.png)
